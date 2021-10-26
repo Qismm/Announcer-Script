@@ -1,4 +1,4 @@
-Announcer Script Made By !Nates#0002
+Announcer Script Forked By !Nates#0002
 
 For Support Join https://discord.gg/jcJsZUUYuH
 
